@@ -4,6 +4,6 @@ cl-cffi-gtk4 is a Lisp binding to the GTK4 library.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/crategus/cl-cffi-gtk4.git |
-| commit  | d9e0e89                                          |
+| commit  | a1fb216                                          |
 | systems | cl-cffi-gtk4                                     |
 |---------+--------------------------------------------------|
